@@ -1,0 +1,7 @@
+{
+  "name": "ESCANNERAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
